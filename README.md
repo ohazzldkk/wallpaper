@@ -1,1 +1,1 @@
-<img width="5120" height="2880" alt="guts-black-5120x2880-21420" src="https://github.com/user-attachments/assets/14f89473-74c3-484d-8ecd-20d796fd2e0c" />
+<img width="3840" height="2160" alt="desert-doom-sand-dunes-dark-background-monochrome-landscape-3840x2160-6409" src="https://github.com/user-attachments/assets/52da2b20-fd82-44ba-920a-5da4ecb91b3a" />
