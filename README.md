@@ -1,1 +1,1 @@
-<img width="3840" height="2160" alt="desert-doom-sand-dunes-dark-background-monochrome-landscape-3840x2160-6409" src="https://github.com/user-attachments/assets/52da2b20-fd82-44ba-920a-5da4ecb91b3a" />
+<img width="1920" height="1200" alt="435371" src="https://github.com/user-attachments/assets/ec99b30b-6f7d-47a9-a269-5a724f4b4a61" />
